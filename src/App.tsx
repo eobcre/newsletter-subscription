@@ -10,8 +10,10 @@ const App = () => {
         <div className='bg-white rounded-md w-[680px] h-[320px]'>
           <Title />
           <CheckContents />
-          <EmailInput />
-          <SubscribeButton />
+          <div className='flex gap-2'>
+            <EmailInput />
+            <SubscribeButton />
+          </div>
         </div>
       </div>
     </div>
