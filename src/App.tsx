@@ -5,12 +5,14 @@ import SubscribeButton from './components/SubscribeButton';
 
 const App = () => {
   return (
-    <div>
-      <div>
-        <Title />
-        <CheckContents />
-        <EmailInput />
-        <SubscribeButton />
+    <div className='bg-[#DDE1FD] h-screen'>
+      <div className='flex justify-center items-center h-screen'>
+        <div className='bg-white rounded-md w-[680px] h-[320px]'>
+          <Title />
+          <CheckContents />
+          <EmailInput />
+          <SubscribeButton />
+        </div>
       </div>
     </div>
   );
