@@ -1,4 +1,4 @@
-const EmailInput = () => {
+const EmailInput: React.FC = () => {
   return (
     <div>
       <input
