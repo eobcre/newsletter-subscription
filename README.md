@@ -1,7 +1,7 @@
 ## Newsletter Subscription
 
 Desired<br><br>
-<img width="735" alt="Screen Shot 2023-08-23 at 10 55 46 AM" src="https://github.com/eobcre/newsletter-subscription/assets/88697509/4dd3b145-e1e2-4f85-b02d-919b37b765df">
+<img width="540" alt="Screen Shot 2023-08-23 at 12 28 01 PM" src="https://github.com/eobcre/newsletter-subscription/assets/88697509/687e22ff-d71d-484e-94d5-0eabee727cec">
 
 What I Created<br><br>
-<img width="735" alt="Screen Shot 2023-08-23 at 10 55 46 AM" src="https://github.com/eobcre/newsletter-subscription/assets/88697509/ed945780-efee-4af2-b20f-33f85c31169c">
+<img width="732" alt="Screen Shot 2023-08-23 at 12 29 57 PM" src="https://github.com/eobcre/newsletter-subscription/assets/88697509/f9cc44d4-d02b-476b-b86c-4b9352623be7">
