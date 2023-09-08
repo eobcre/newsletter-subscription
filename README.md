@@ -6,6 +6,8 @@ This is the daily challenge I participate in on [WebDevDaily](https://www.webdev
 
 [See Demo](https://eobcre.github.io/newsletter-subscription/)
 
+### Tools
+
 - React v18.2.0
 - Vite v4.4.5
 - Tailwind CSS v3.3.3
